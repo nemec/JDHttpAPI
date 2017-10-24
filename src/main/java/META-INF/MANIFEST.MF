@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: jetty-io-9.4.7.v20170914.jar jetty-server-9.4.7.v20170914.
+ jar Core.jar JDownloader.jar JDGUI.jar gson-2.8.2.jar jetty-http-9.4.
+ 7.v20170914.jar javax.servlet-api-3.1.0.jar jetty-util-9.4.7.v2017091
+ 4.jar
+

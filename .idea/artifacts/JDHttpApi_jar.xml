@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JDHttpApi:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JDHttpApi_jar</output-path>
+    <root id="archive" name="JDHttpApi.jar">
+      <element id="module-output" name="JDHttpApi" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-io/9.4.7.v20170914/jetty-io-9.4.7.v20170914.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-server/9.4.7.v20170914/jetty-server-9.4.7.v20170914.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.2/gson-2.8.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-http/9.4.7.v20170914/jetty-http-9.4.7.v20170914.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.4.7.v20170914/jetty-util-9.4.7.v20170914.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

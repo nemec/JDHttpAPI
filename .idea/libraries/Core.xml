@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Core">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/JDGUI.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/JDownloader.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
