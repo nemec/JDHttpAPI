@@ -62,6 +62,8 @@ to make changes take effect, disable and then re-enable the extension.
     must POST new links as JSON. This can help you reduce exposure to CSRF
     vulnerabilities, especially when combined with a password.
 
+![screenshot of configuration panel](settings-screenshot.png)
+
 ## Use
 
 There is currently only one URL: `/addLink`. You may submit via POST or GET.
