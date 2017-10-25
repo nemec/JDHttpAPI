@@ -16,7 +16,7 @@ accepts all Origins over ajax.
 ## Install
 
 1. Close JDownloader.
-2. Build or download the `JDHttpApi.jar` file.
+2. Build or [download](https://github.com/nemec/JDHttpAPI/releases) the `JDHttpApi.jar` file.
 3. Place that file in `./extensions/` inside the JDownloader2 program folder.
 3. Open the file `./tmp/extensioncache/extensionInfos.json` in your JD program
     folder and insert the following JSON as a new element in the array:
